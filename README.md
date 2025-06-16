@@ -1,27 +1,40 @@
-# Shivani Sen
+<h1 align="center">Hi, I'm Shivani Sen 👋</h1>
+<h3 align="center">Agile Practitioner & Transformation Leader</h3>
 
 ---
-layout: home
-title: "Shivani Sen"
+
+🔧 I help organizations become adaptive, collaborative, and high-performing through Agile transformation and Lean-Agile practices.
+
+💡 I'm a certified:
+- ✅ Certified Scrum Master (CSM)
+- ✅ Certified Scrum Product Owner (CSPO)
+- ✅ Certified Agile Leader (CAL-1)
+
+🎯 I’ve led multiple enterprise-scale Agile implementations across industries, enabling faster value delivery, stronger team dynamics, and measurable business agility.
+
 ---
 
-Welcome to my personal portfolio!
+## 🔍 About Me
 
-![Profile Photo]({{ site.baseurl }}/assets/Profile.jpg){: width="200" }
+- 🌍 Based in India  
+- 📌 Passionate about Agile Coaching, Scrum, SAFe, Kanban  
+- 💬 I love mentoring teams, coaching leaders, and enabling cultural change  
+- 📈 Focused on delivering outcomes and enabling sustainable agility
 
-## About Me
+---
 
-I am an experienced Agile practitioner and transformation leader, known for driving organizational agility and cultivating high‑performing teams. With a strong background in project and program management, I have led multiple enterprise‑scale Agile implementations across diverse industries, enabling teams to deliver customer value faster and more predictably.
+## 📫 Connect with Me
 
-Passionate about empowering individuals and fostering collaborative cultures, I bring deep expertise in Scrum, SAFe, and Lean‑Agile practices. I am committed to continuous improvement, coaching leaders and teams to embrace change, adopt Agile mindsets, and scale agility sustainably.
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivanisen12/)
+- 💬 [Portfolio Website](https://senshiv.github.io/Shivani-Sen/)
+- 📧 Email: shivanisen@example.com *(replace with your email if public)*
 
-## Certifications
+---
 
-- **CSM** (Certified Scrum Master), Scrum Alliance  
-- **CSPO** (Certified Scrum Product Owner), Scrum Alliance  
-- **CAL‑1** (Certified Agile Leade), Scrum Alliance
-- Test
+## ✨ GitHub Stats
 
-## Contact
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senshiv&show_icons=true&theme=default)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/shivanisen12/)
+---
+
+> “Agility is not a process, it’s a mindset. Let’s build the future, one iteration at a time.”
