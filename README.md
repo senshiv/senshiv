@@ -3,9 +3,14 @@
 
 ---
 
-🔧 I help organizations become adaptive, collaborative, and high-performing through Agile transformation and Lean-Agile practices.
 
-💡 I'm a certified:
+🎯 With 16 years of experience as a Senior Manager, I specialize in leading high-performing teams and driving end-to-end delivery of complex programs across global organizations.
+
+💼 Passionate about people management, I take pride in building empowered, collaborative teams that thrive in dynamic environments. I bring deep expertise in Agile methodologies—Scrum, SAFe, and Lean-Agile—and have led multiple enterprise-scale Agile transformations.
+
+🌱 I’m committed to continuous improvement, coaching leaders and teams to embrace agility, deliver customer value, and scale sustainably.
+
+💡 Certification
 - ✅ Certified Scrum Master (CSM)
 - ✅ Certified Scrum Product Owner (CSPO)
 - ✅ Certified Agile Leader (CAL-1)
