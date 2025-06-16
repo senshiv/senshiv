@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Shivani Sen 👋</h1>
-<h3 align="center">Agile Practitioner & Transformation Leader</h3>
+<h1 align="center"> Shivani Sen 👋</h1>
+<h3 align="center">Agile Practitioner, People Manager & Transformation Leader</h3>
 
 ---
 
