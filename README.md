@@ -18,6 +18,7 @@
 - ✅ Certified Scrum Master (CSM) by Scrum Alliance
 - ✅ Certified Scrum Product Owner (CSPO) by Scrum Aliance
 - ✅ Certified Agile Leader (CAL-1) by Scrum Alliance
+- ✅ Certified Professional Agile Coach (ICC-ACP) by ICAgile
 - ✅ ITILv4 Foundation by PeopleCert
 
 ---
